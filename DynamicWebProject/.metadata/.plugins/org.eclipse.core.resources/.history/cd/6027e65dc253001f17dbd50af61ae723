@@ -1,0 +1,6 @@
+package in.co.rays.servlet;
+
+public class HelloServlet {
+	
+
+}
